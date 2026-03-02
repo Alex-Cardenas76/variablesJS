@@ -1,8 +1,8 @@
-nombreHeroe = "Batman"
-poder = "Dinero"
-nivelEnergia = 80
-ciudad = "Ghotam"
-enemigo = "joker"
+nombreHeroe = "FLASH"
+poder = "Speed Force"
+nivelEnergia = 200
+ciudad = "Central City"
+enemigo = "Bumeran"
 
-console.log("El superheroe llamado ", nombreHeroe, "se enfrento a su enemigo ", enemigo, " ,en la ciudad de : ", ciudad)
+console.log(nombreHeroe, "detuvo el robo de un banco que  ", enemigo, " ,hacia en", ciudad)
 
